@@ -145,5 +145,5 @@
 
         </plugins>
     </build>
-    <!--this is comment-->
+    <!--this is comment and this is pipeline-->
 </project>
